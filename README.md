@@ -1,24 +1,3 @@
-# README
+LINK TO GUIDE: http://guides.rubyonrails.org/getting_started.html
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Following ruby on rails guide, created a simple blog allowing the user to create, read, update, and delete new blog posts and comments. Also added a username and password log in to be able to delete and add content.
